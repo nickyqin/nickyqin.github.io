@@ -4,7 +4,9 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
+.portfolio-wrap .img-fluid {
+  max-height: 300px;
+}
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
