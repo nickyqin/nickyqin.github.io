@@ -1,1 +1,1 @@
-Nicky Qin's projects' website
+Nicky Qin's resume and projects website
